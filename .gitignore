@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 *.pdf
 prueba.ipynb
+SQL
+!SQL/*.sql
